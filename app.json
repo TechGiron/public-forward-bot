@@ -28,7 +28,7 @@
       "required": false
     },
     "TO_CHANNEL": {
-      "description": "-1001863131811",
+      "description": "Enter Your channel Id must add",
       "value": "-1001863131811"
     },
     "DATABASE_URI": {
