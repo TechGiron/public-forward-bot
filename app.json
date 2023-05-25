@@ -8,19 +8,19 @@
     "forward",
     "bot"
   ],
-  "repository": "https://github.com/Greymattersbot/public-forward-bot",
+  "repository": "https://github.com/TechGiron/public-forward-bot",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
-      "value": ""
+      "value": "17030067"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
-      "value": ""
+      "value": "df64deb205933fbe14e50237b5ab68f2"
     },
     "BOT_TOKEN": {
       "description": "Your bot token from @BotFather",
-      "value": ""
+      "value": "5834754435:AAEe8OhD7zMWDxKiFSYHqgqoei3tYjeqsd4"
     },
     "BOT_USERNAME": {
       "description": "Username of your Bot without @ , Only give if you want auto starts forwarding when heroku restarts",
@@ -33,7 +33,7 @@
     },
     "DATABASE_URI": {
       "description": "Get this from cloud.mongodb.com",
-      "value": ""
+      "value": "mongodb+srv://Guardian:Apdf8eifEqrnVAGn@cluster0.zboa45t.mongodb.net/?retryWrites=true&w=majority"
     },
     "DATABASE_NAME": {
       "description": "Database cluster name",
@@ -46,7 +46,7 @@
     },
     "OWNER_ID": {
       "description": "Enter Your Telegram id",
-      "value": ""
+      "value": "5503019033"
     },
     "SESSION": {
       "description": "Pyrogram string Session https://t.me/string_session_generator_658_bot",
